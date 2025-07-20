@@ -1,4 +1,4 @@
-# Heart-Disease-risk-Predictor-ai
+# Heart-Disease-risk-Predictor-AI
 A user-friendly, real-time heart disease risk prediction web app built with Streamlit and powered by machine learning. This project uses clinical data to help assess whether a patient is likely to have heart disease. Designed for healthcare students, beginners in AI/ML, and researchers interested in medical diagnostics
 heart-disease-risk-predictor-ai is an open-source web application that predicts the likelihood of heart disease using a machine learning model trained on clinical data. The app is built with Streamlit, allowing anyone — even without coding skills — to input simple health metrics and get an immediate risk prediction.
 
